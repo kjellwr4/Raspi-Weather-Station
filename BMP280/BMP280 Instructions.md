@@ -1,12 +1,11 @@
 # Resources
 * [Raspberry Pi Foundation's Weather Station Tutorial](https://projects.raspberrypi.org/en/projects/build-your-own-weather-station/3)
 * [Adafruit Python Tutorial](https://circuitpython.readthedocs.io/projects/bme280/en/latest/)
-* [BME280](https://www.adafruit.com/product/2652?gclid=EAIaIQobChMI987N-6ip3gIVjFqGCh1sTQxHEAQYASABEgLhyfD_BwE)
+* [BMP280](#) or [BME280](https://www.adafruit.com/product/2652?gclid=EAIaIQobChMI987N-6ip3gIVjFqGCh1sTQxHEAQYASABEgLhyfD_BwE)
 # Instructions
-The tutorial from the Raspberry Pi Foundation uses a deprecated library. I was able to run the script with the BME280 wired to the Raspi, but the output did not show humidity values.
-1. Wire the BME280 to the Raspi
+1. Wire the BMP280 to the Raspi.
 
-![BME280 Wiring Diagram](https://github.com/kjellwr4/Raspi-Weather-Station/blob/BME280/BME280/Raspi%20Weather%20Station%20BME280_bb.png)
+![BMP280 Wiring Diagram](https://github.com/kjellwr4/Raspi-Weather-Station/blob/BMP280/BMP280/Raspi%20BMP280%20with%20BB_bb.png)
 
 2. [Adafruit Driver Instructions](https://circuitpython.readthedocs.io/projects/bme280/en/latest/)
    * `sudo pip3 install adafruit-circuitpython-bme280`
