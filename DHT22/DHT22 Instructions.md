@@ -4,6 +4,6 @@
 # Instructions
 1. Wire the DHT22 to the Raspi.
 
-![DHT22 & BMP280 Wiring Diagram](https://github.com/kjellwr4/Raspi-Weather-Station/blob/BMP280/BMP280/Raspi%20BMP280%20with%20BB_bb.png)
+![DHT22 & BMP280 Wiring Diagram](https://github.com/kjellwr4/Raspi-Weather-Station/blob/BMP280/DHT22/Raspi%20BMP280%20DHT22%20with%20BB_bb.png)
 
 2. Something
