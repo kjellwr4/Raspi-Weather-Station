@@ -13,7 +13,7 @@ _Note: There are two sensors that have very similar names. One is the BME280 whi
    * `sudo nano /usr/local/python3.5/dist-packages adafruit_bme280.py`
    * Change `_BME280_CHIPID = const(0x60)` to `_BME280_CHIPID = const(0x58)`
 3. Create a python file named _bmp280_sensor.py_. Copy-and-paste the following code into the file and then execute the script. The output should be four readings.
-```
+```python
 import board
 import digitalio
 import busio
