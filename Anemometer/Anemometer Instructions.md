@@ -54,8 +54,9 @@ while True:
         sleep(interval)
         print( calc_speed(interval), "cm/h")
 ```
-## _Wind_Speed.py File Changes_
-There are a number of changes that must be made to the code in _Wind_Speed.py_. Many of these changes depend on the type of Anemometer used in the project. The changes below reflect what's necessary for the _[Argent Data Systems Anemometer](https://www.argentdata.com/catalog/product_info.php?products_id=145)_ to be an accurate wind speed measurement tool.
+8. Execute the script and spin the anemometer. There should be counts and readings in the terminal window.
+## _Wind_Speed.py_ File Changes
+There are a number of changes that must be made to the code in _Wind_Speed.py_. Many of these changes depend on the type of Anemometer used in the project. The changes below reflect the _[Argent Data Systems Anemometer](https://www.argentdata.com/catalog/product_info.php?products_id=145)_.
 1. Change Line 
 
 Include something about measuring with a professional anemometer
