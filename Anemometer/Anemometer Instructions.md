@@ -12,5 +12,15 @@
 3. Make a new directory named _Anemometer_ by typing `sudo mkdir Anemometer`
 4. Navigate inside of the _Anemometer_ directory by typing `cd Anemometer`.
 5. Create a new python file named _Wind_Speed.py_ by typing `sudo touch Wind_Speed.py`
+6. Change the read/write permissions for the file by typing `sudo chmod a+rwx Wind_Speed.py`
+7. Open the _Wind_Speed.py_ file.
+   * Copy-and-paste the code below into the file.
+   * Save the file.
+```
+t
+```
+## _Wind_Speed.py File Changes_
+There are a number of changes that must be made to the code in _Wind_Speed.py_. Many of these changes depend on the type of Anemometer used in the project. The changes below reflect what's necessary for the _[Argent Data Systems Anemometer](https://www.argentdata.com/catalog/product_info.php?products_id=145)_ to be an accurate wind speed measurement tool.
+1. Change Line 
 
 Include something about measuring with a professional anemometer
