@@ -17,7 +17,7 @@
 7. Open the _Wind_Speed.py_ file.
    * Copy-and-paste the code below into the file.
    * Save the file.
-```
+```python
 from gpiozero import DigitalInputDevice
 from time import sleep
 import math
