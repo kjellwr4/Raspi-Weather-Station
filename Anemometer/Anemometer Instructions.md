@@ -8,6 +8,9 @@
 
 ![Anemometer](https://github.com/kjellwr4/Raspi-Weather-Station/blob/BMP280/Anemometer/Raspi%20BMP280%20DHT22%20Anemometer%20with%20BB_bb.png)
 
-2. 
+2. Open the Terminal and navigate to the home directory by typing `cd ~`
+3. Make a new directory named _Anemometer_ by typing `sudo mkdir Anemometer`
+4. Navigate inside of the _Anemometer_ directory by typing `cd Anemometer`.
+5. Create a new python file named _Wind_Speed.py_ by typing `sudo touch Wind_Speed.py`
 
 Include something about measuring with a professional anemometer
