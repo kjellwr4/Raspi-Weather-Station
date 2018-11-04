@@ -12,7 +12,7 @@
 5. Open and save a new python file entitled _DHT22.py_.
    * Copy-and-paste the following code into the file.
    * Execute the file and make sure the terminal displays both the temperature and humidity.
-```
+```python
 import sys
 import Adafruit_DHT
 
@@ -32,7 +32,7 @@ else:
 7. Navigate to the _weather-station_ directory by typing `cd ../weather-station`
 8. Create a new file named _BMP280-and-DHT22.py_ in the _weather-station_ directory.
 9. Open the file and copy-and-paste the following code. Execute the script and check for correct readings.
-```
+```python
 import board
 import digitalio
 import busio
