@@ -3,6 +3,7 @@
 * [RSensing the Weather - Wind Speed Worksheet](https://www.raspberrypi.org/learning/sensing-the-weather/lesson-2/worksheet/): See [_wind_calc.py_ solution worksheet](https://www.raspberrypi.org/learning/sensing-the-weather/lesson-2/code/wind_calc.py)
 * [Anemometer](https://www.argentdata.com/catalog/product_info.php?products_id=145)
 * [RJ11 Connectors](https://www.amazon.com/Electronics-Salon-Right-Breakout-Terminal-Connector/dp/B01GNO4L6K/ref=sr_1_1_sspa?ie=UTF8&qid=1541341497&sr=8-1-spons&keywords=rj11+breakout&psc=1)
+* Optional: [Calipers for Measuring Anemometer Diameter](https://www.amazon.com/Neiko-01407A-Electronic-Digital-Stainless/dp/B000GSLKIW/ref=sr_1_3?s=industrial&ie=UTF8&qid=1541366805&sr=1-3&keywords=digital+calipers&dpID=41WMvppQQrL&preST=_SY300_QL70_&dpSrc=srch)
 * Optional: [Handheld Anemometer for Baseline Testing](https://www.amazon.com/Digital-Handheld-Anemometer-Measuring-Temperature/dp/B01NATTEWW/ref=sr_1_8?ie=UTF8&qid=1541343315&sr=8-8&keywords=handheld+anemometer)
 # Instructions
 1. Wire the anemometer to the RJ11 breakout board. Connect the RJ11 breakout board to the Raspi.
