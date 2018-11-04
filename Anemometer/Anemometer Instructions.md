@@ -45,10 +45,8 @@ def calc_speed(time_sec):
 
         return speed
 
-
 wind_speed_sensor = DigitalInputDevice(5)
 wind_speed_sensor.when_activated = spin
-
 
 # Loop to measure wind speed and report at 5-second intervals
 while True:
